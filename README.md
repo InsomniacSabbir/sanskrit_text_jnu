@@ -1,6 +1,8 @@
 # sanskrit_text_jnu
 
-Some classic sanskrit corpus is in this repository. 
+This repository holds the sanskrit corpus made available by:
 
-All these corpus are from the following site. http://sanskrit.jnu.ac.in/currentSanskritProse/i
+The Computational Linguistics R&D at Special Centre for Sanskrit Studies J.N.U. 
+http://sanskrit.jnu.ac.in/currentSanskritProse
 
+There is no copyright issues with using this corpus in opensource projects according to the supervisor of this project Dr. Girish Nath Jha.
